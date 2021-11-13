@@ -57,7 +57,7 @@ Clicking on Cart will  lead us to the Cart Page.
    it will lead us to the Success page where payment 
    successful message will be shown
    ## Challenges:-
-   We had faced a lot of issues in cloning the website. First of all we were not used to reading the code of other people. I was working on the cart functionality which was in Landing page done by Aashish. There we faced some issues. We also sometimes had to fix some issues related to merging our code through github.
+   We had faced a lot of issues in cloning the website. First of all we were not used to reading the code of other people. I was working on the cart functionality. There we faced some issues. We also sometimes had to fix some issues related to merging our code through github.
 
    ## Learning:-
    - We all became proficient in reading the code of team members.
